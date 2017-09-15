@@ -4,6 +4,26 @@ This is a repository of my Arduino, ESP8266 and other microcontroller projects.
 
 ---
 
+## Arduino IDE settings
+
+#### [LinkIt ONE](https://www.seeedstudio.com/LinkIt-ONE-p-2017.html)
+
+
+#### [SparkFun RedBoard](https://www.sparkfun.com/products/13975)
+
+
+#### [Sparkfun Thing](https://www.sparkfun.com/products/13231)
+
+
+#### [Arduino UNO](http://www.arduino.cc/en/Main/ArduinoBoardUno)
+
+
+#### [Arduino Duemilanove](https://www.arduino.cc/en/Main/ArduinoBoardDuemilanove)
+
+
+
+
+
 ## Projects I'm working on
 
 #### R/C vehicle
